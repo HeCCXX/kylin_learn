@@ -6,7 +6,7 @@ import java.sql.*;
 
 /**
  * @ClassName TestKylin
- * @Description TODO
+ * @Description kylin  jdbc访问实战
  * @Author 贺楚翔
  * @Date 2020-03-20 15:04
  * @Version 1.0
